@@ -1,0 +1,11 @@
+{
+  "name": "waifudoge",
+  "version": "1.0.0",
+  "homepage": "https://Waifu-Doge-Coin.github.io/waifudoge-landing-page/",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
